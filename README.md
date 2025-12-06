@@ -1,4 +1,4 @@
-### Hola, Me llamo Jefferson Eras 👋
+### Hola, me llamo Jefferson Eras 👋
 
 Soy Ingeniero en Ciencias de la Computación.
 Apasionado de la tecnología, el arte y las ciencias.
