@@ -1,13 +1,11 @@
-### Hi!! my name is Jefferson Eras 👋
+### Hola, Me llamo Jefferson Eras 👋
 
-Actualmente me encuentro estudiando en la mejor universidad de mi país, estudio Ingeniería en Computación,
-mi meta es trabajar en la NASA, en proyectos que trate sobre desarrollar el viaje interplanetario, ya que mi más grande sueño
-es salir de este planeta y pisar otro diferente.
+Soy Ingeniero en Ciencias de la Computación.
+Apasionado de la tecnología, el arte y las ciencias.
 
 ## About to me :D
- Me encanta la programación ya que por medio de ésta se puede cambiar al mundo.
+Me apasiona el desarrollo de sistemas, especialmente las soluciones de software personalizadas para empresas. Disfruto transformar procesos operativos en plataformas automatizadas y funcionales, donde la lógica de negocio se integra de forma clara y eficiente. Me interesa particularmente el desarrollo de software Full Stack y todo lo relacionado con la operatividad y estructura de los sistemas.
 
- Me gusta el anime sobretodo el personaje de Itachi Uchiha:
  
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://steamuserimages-a.akamaihd.net/ugc/1649972563436404655/199ACDD65816B13BAE4F029AB44768D06B4DB33C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
@@ -19,11 +17,23 @@ es salir de este planeta y pisar otro diferente.
 <details>
 <summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javas     |
-|     2| C         |
-|     3| MySQL     |
+| Rank | Language     |
+|-----:|--------------|
+|     1| Python       |
+|     2| Java         |
+|     3| JavaScript   |
+|     4| Dart         |
+|     5| C            |
+|     6| C++          |
+|     7| PHP          |
+|     8| R            |
+|     9| Visual Basic |
+
+| Rank | Tecnología        | Tipo      |
+|-----:|--------------------|-----------|
+|     1| MySQL              | SQL       |
+|     2| PostgreSQL         | SQL       |
+|     4| Firebase Firestore | NoSQL     |
   
 </details>
 
@@ -32,6 +42,6 @@ es salir de este planeta y pisar otro diferente.
 
 💬 Ask me about: Como empezar a programar.. :D 
 
-😄 Pronouns    : Curioso por saber que se esconde afuera de la tierra
+😄 Pronouns    : Curioso por saber lo que esta fuera de nuestro planeta, y los viajes interestelares.
 
 ⚡ Pasatiempos : VideoJuegos, Arte, Ciencia Ficción y el Universo
